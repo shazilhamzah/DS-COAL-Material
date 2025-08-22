@@ -1,7 +1,6 @@
 # 📘 Data Structures (DS) & Computer Organization and Assembly Language (COAL) Resources  
 
 This repository contains study material, notes, code examples, and reference links for **Data Structures (DS)** and **Computer Organization & Assembly Language (COAL)** courses.  
-It is designed to help students with quick revision, coding practice, and reliable learning resources.  
 
 ---
 

@@ -8,10 +8,9 @@ It is designed to help students with quick revision, coding practice, and reliab
 ## 📺 Best Playlist Links  
 
 ### **Data Structures**
+- [Time Complexity](https://www.youtube.com/playlist?list=PLVp89MrlH65yn9W67KgMfEit4GJlnlZxu)
 - [Linked List](https://www.youtube.com/playlist?list=PLVp89MrlH65zIgDaUnwxuJWTa0SeFZVec)  
-- [Stacks and Queues Explained]()  
-- [Graph Algorithms (BFS/DFS)]()  
-- [Sorting Algorithms (Quick, Merge, Heap)]()  
+- [Stacks and Queues](https://www.youtube.com/playlist?list=PLVp89MrlH65wWTBDOG8wCN_2FeMHQQjf2)
 
 ### **COAL**
 - [Basics of Computer Organization]()  
